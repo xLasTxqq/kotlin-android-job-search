@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_vacancies_fragment">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.findwork.ui.filters.FiltersFragment"
+        android:label="@string/title_filters"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_new_vacancy"
+        android:name="com.example.findwork.ui.vacancies.NewVacancyFragment"
+        android:label="@string/title_new_vacancy"
+        tools:layout="@layout/fragment_new_vacancy" />
+
+    <fragment
+        android:id="@+id/navigation_update_vacancy"
+        android:name="com.example.findwork.ui.employer_vacancies.UpdateVacancyFragment"
+        android:label="@string/title_update_vacancy"
+        tools:layout="@layout/fragment_update_vacancy" />
+
+<!--    <fragment-->
+<!--        android:id="@+id/navigation_dashboard"-->
+<!--        android:name="com.example.findwork.ui.dashboard.DashboardFragment"-->
+<!--        android:label="@string/title_dashboard"-->
+<!--        tools:layout="@layout/fragment_dashboard" />-->
+
+    <fragment
+        android:id="@+id/navigation_notifications"
+        android:name="com.example.findwork.ui.notifications.NotificationsFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_notifications" />
+
+    <fragment
+        android:id="@+id/navigation_login"
+        android:name="com.example.findwork.ui.auth.LoginFragment"
+        android:label="@string/title_login"
+        tools:layout="@layout/fragment_login" />
+
+    <fragment
+        android:id="@+id/navigation_register"
+        android:name="com.example.findwork.ui.auth.RegisterFragment"
+        android:label="@string/title_register"
+        tools:layout="@layout/fragment_register" />
+
+    <fragment
+        android:id="@+id/navigation_login_employer"
+        android:name="com.example.findwork.ui.auth.LoginFragmentEmployer"
+        android:label="@string/title_login_employer"
+        tools:layout="@layout/fragment_login_employer" />
+
+    <fragment
+        android:id="@+id/navigation_register_employer"
+        android:name="com.example.findwork.ui.auth.RegisterFragmentEmployer"
+        android:label="@string/title_register_employer"
+        tools:layout="@layout/fragment_register_employer" />
+
+    <fragment
+        android:id="@+id/navigation_vacancies_fragment"
+        android:name="com.example.findwork.ui.vacancies.VacanciesFragment"
+        android:label="@string/title_vacancies"
+        tools:layout="@layout/vacancies_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_summary"
+        android:name="com.example.findwork.ui.summary.SummaryFragment"
+        android:label="@string/title_summary"
+        tools:layout="@layout/fragment_summary" />
+
+    <fragment
+        android:id="@+id/navigation_summaries"
+        android:name="com.example.findwork.ui.summaries.SummariesFragment"
+        android:label="@string/title_summaries"
+        tools:layout="@layout/fragment_summaries" />
+
+    <fragment
+        android:id="@+id/navigation_employer_vacancies"
+        android:name="com.example.findwork.ui.employer_vacancies.EmployerVacanciesFragment"
+        android:label="@string/title_employer_vacancies"
+        tools:layout="@layout/fragment_empoyer_vacancies"/>
+</navigation>

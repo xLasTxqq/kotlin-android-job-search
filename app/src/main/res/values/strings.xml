@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Найти работу</string>
+    <string name="title_activity_bottom_nav">BottomNav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_login">Вход</string>
+    <string name="title_register">Регистрация</string>
+    <string name="sign_in">ВОЙТИ</string>
+    <string name="invalid_email">Not a valid email</string>
+    <string name="login_switch_employer"><u>Я работодатель</u></string>
+    <string name="title_login_employer">Вход как работодатель</string>
+    <string name="login_switch_employee"><u>Я работник</u></string>
+    <string name="prompt_name">Имя</string>
+    <string name="prompt_surname">Фамилия</string>
+    <string name="prompt_phone">Телефон</string>
+    <string name="prompt_company">Компания</string>
+    <string name="prompt_confirm_password">Подтверждение пароля</string>
+    <string name="action_register_employer">Регистрация для работодателя</string>
+    <string name="title_register_employer">Регистрация для работодателя</string>
+    <string name="action_register">Регистрация</string>
+    <string name="resetAreas"><u>Сброс</u></string>
+    <string name="more"><u>Еще...</u></string>
+    <string name="title_vacancies">Вакансии</string>
+    <string name="filter">Фильтры</string>
+    <string name="title_filters">Фильтры</string>
+    <string name="experience">Опыт работы</string>
+    <string name="schedule">График работы</string>
+    <string name="area">Регион</string>
+    <string name="specializations">Специализации</string>
+    <string name="date">Дата</string>
+    <string name="salary">Доход</string>
+    <string name="title_summary">Резюме</string>
+    <string name="text_summary_name">Имя</string>
+    <string name="input_summary_name">Укажите ваше имя</string>
+    <string name="input_summary_surname">Укажите вашу фамилию</string>
+    <string name="logout">Выйти из аккаунта</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_new_vacancy">Создать вакансию</string>
+    <string name="title_summaries">Отправленные резюме</string>
+    <string name="action_summaries">Ваши отклики</string>
+    <string name="delete_all_summaries">Удалить все отклики</string>
+    <string name="title_employer_vacancies">Созданные вакансии</string>
+    <string name="title_update_vacancy">Изменить вакансию</string>
+</resources>

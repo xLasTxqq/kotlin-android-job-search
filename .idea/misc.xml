@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/xlast/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/activity_list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/select_dialog_multichoice.xml" value="0.24270833333333333" />
+        <entry key="..\:/Users/xlast/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_multiple_choice.xml" value="0.24270833333333333" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3675" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.3675" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.3675" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3675" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/drawable/round_dialog.xml" value="0.2485" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout-v28/dialog_vacancy_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout-v28/fragment_update_vacancy.xml" value="0.3615819209039548" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/aaaa.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/activity_bottom_nav.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/dialog_vacancy_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/employer_vacancy_group.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/employer_vacancy_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/fragment_dashboard.xml" value="0.22" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/fragment_employer_summary.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/fragment_empoyer_vacancies.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/fragment_home.xml" value="0.3364620938628159" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/fragment_login.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/fragment_login_employer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/fragment_new_vacancy.xml" value="0.33" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/fragment_register.xml" value="0.33" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/fragment_register_employee.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/fragment_register_employer.xml" value="0.33" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/fragment_summaries.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/fragment_summary.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/fragment_update_vacancy.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/summary_item.xml" value="0.33" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/vacancies_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/layout/vacancy_item.xml" value="0.33" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/menu/add_item.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/menu/bottom_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/menu/employee_menu.xml" value="0.24270833333333333" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/menu/filter_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/menu/log_out_of_account_menu.xml" value="0.859375" />
+        <entry key="..\:/Users/xlast/FindWork/app/src/main/res/menu/logout_with_delete.xml" value="0.2790328973444312" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
